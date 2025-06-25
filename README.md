@@ -1,4 +1,4 @@
-### Hi there, I'm Amritesh Das! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=1461FF&vCenter=true&width=600&lines=Hi+there%2C+I'm+Amritesh+Das+%F0%9F%91%8B)](https://amriteshdas.github.io/my-portfolio/)
 
 <div align="center">
   <img src="https://giffiles.alphacoders.com/212/212508.gif" alt="Banner" width="70%" />

@@ -1,7 +1,7 @@
 ### Hi there, I'm Amritesh Das! 👋
 
 <div align="center">
-  <img src="[https://i.imgur.com/5rTnP8M.png](https://giffiles.alphacoders.com/212/212508.gif)" alt="Banner" width="70%" />
+  <img src="https://giffiles.alphacoders.com/212/212508.gif" alt="Banner" width="70%" />
 </div>
 
 I'm a passionate **AI & ML student**, creative **web developer**, and aspiring **full-stack developer** who enjoys building elegant, functional, and user-friendly web apps.

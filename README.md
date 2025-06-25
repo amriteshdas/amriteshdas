@@ -11,14 +11,6 @@ I'm a passionate **AI & ML student**, creative **web developer**, and aspiring *
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=joydasXYZ&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=joydasXYZ&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
----
 
 ### 🧠 Skills
 
@@ -34,30 +26,23 @@ I'm a passionate **AI & ML student**, creative **web developer**, and aspiring *
 
 ---
 
-### 🌱 Currently Working On
-- A modern **portfolio website** with glassmorphism UI 🌌
-- A **resume builder** web app with dynamic sections 📄
-- **Canvas drawing app** with shape preview and undo/redo ✏️
-
----
-
 ### 💼 Featured Projects
 
 | Project | Tech Stack | Link |
 |--------|------------|------|
-| 🎬 Movie Hub | HTML, CSS, JS, OMDb API | [Live](https://moviehub-live.netlify.app) |
-| 🎨 Color Palette Generator | HTML, CSS, JS | [Live](https://colorjoy.netlify.app) |
-| 🧠 Resume Builder | HTML, CSS, JS | [Live](https://resumegenjoy.netlify.app) |
-| ✍️ Online Code Editor | HTML, CSS, JS | [Live](https://joycodeeditor.netlify.app) |
-| 🏥 Hospital Finder | HTML, CSS, JS, API | [Live](https://hospitalfinderjoy.netlify.app) |
+| ☁️ Weather App | HTML, CSS, JS, API | [Live](https://amriteshdas.github.io/weatherapp/) |
+| 🎨 Online Code Editor | HTML, CSS, JS | [Live](https://amriteshdas.github.io/code-editor/) |
+| 🧠 Resume Builder | HTML, CSS, JS | [Live](https://amriteshdas.github.io/resume-builder/) |
+| ✍️ Canvas Web App | HTML, CSS, JS | [Live](https://amriteshdas.github.io/online-canvas/) |
+| 🎬 Movie Hub | HTML, CSS, JS, API | [Live](https://amriteshdas.github.io/moviehub/) |
 
 ---
 
 ### 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-FF416C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nirjoner.canvas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amriteshd)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joydasXYZ)
+[![Instagram](https://img.shields.io/badge/Instagram-FF416C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/photongrapher.joy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amriteshdas)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amriteshdas)
 
 ---
 

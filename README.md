@@ -1,9 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=1461FF&vCenter=true&width=600&lines=Hi+there%2C+I'm+Amritesh+Das+%F0%9F%91%8B)](https://amriteshdas.github.io/my-portfolio/)
 
+
 <div align="center">
     
-  ![snake gif](https://github.com/amriteshdas/amriteshdas/blob/output/github-snake-dark.svg)
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*X7Q84nkQN1DiFXC-rQLt9g.gif" alt="Banner" width="50%" />
 </div>
+
+
+
+
 
 I'm a passionate **AI & ML student**, creative **web developer**, and aspiring **full-stack developer** who enjoys building elegant, functional, and user-friendly web apps.
 
@@ -47,8 +52,13 @@ I'm a passionate **AI & ML student**, creative **web developer**, and aspiring *
 
 ---
 
+<div align="center">
+    
+  ![snake gif](https://github.com/amriteshdas/amriteshdas/blob/output/github-snake-dark.svg)
+</div>
+
 > ✨ *"Building is my meditation. Creating is my freedom."*
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joydasXYZ&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=amriteshdas&style=flat-square&color=blue" alt="profile views" />
 </div>

@@ -3,7 +3,7 @@
 
 <div align="center">
     
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*X7Q84nkQN1DiFXC-rQLt9g.gif" alt="Banner" width="50%" />
+<img src="https://github.com/amriteshdas/amriteshdas/blob/main/githubgif-unscreen.gif?raw=true" alt="Banner" width="50%" />
 </div>
 
 

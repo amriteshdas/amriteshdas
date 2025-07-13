@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=1461FF&vCenter=true&width=600&lines=Hi+there%2C+I'm+Amritesh+Das+%F0%9F%91%8B)](https://amriteshdas.github.io/my-portfolio/)
 
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/212/212508.gif" alt="Banner" width="70%" />
+    
+  ![snake gif](https://github.com/amriteshdas/amriteshdas/blob/output/github-snake-dark.svg)
 </div>
 
 I'm a passionate **AI & ML student**, creative **web developer**, and aspiring **full-stack developer** who enjoys building elegant, functional, and user-friendly web apps.

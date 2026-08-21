@@ -63,10 +63,10 @@ fun_fact: "Building is my meditation. Creating is my freedom." ✨
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amriteshdas&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=amriteshdas&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amriteshdas&amp;theme=tokyonight&amp;hide_border=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amriteshdas&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amriteshdas&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" width="49%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amriteshdas&amp;theme=tokyo-night&amp;hide_border=true" width="49%" />
 
 </div>

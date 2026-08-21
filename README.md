@@ -1,64 +1,137 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=1461FF&vCenter=true&width=600&lines=Hi+there%2C+I'm+Amritesh+Das+%F0%9F%91%8B)](https://amriteshdas.github.io/my-portfolio/)
-
-
 <div align="center">
-    
-<img src="https://github.com/amriteshdas/amriteshdas/blob/main/githubgif-unscreen.gif?raw=true" alt="Banner" width="50%" />
-</div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Amritesh%20Das&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Student%20%7C%20Web%20Developer%20%7C%20Full-Stack%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 
+<a href="https://amriteshdas.github.io/my-portfolio/">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=1461FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Amritesh+%F0%9F%91%8B;AI+%26+ML+Student+%F0%9F%A4%96;Creative+Web+Developer+%F0%9F%8C%90;Aspiring+Full-Stack+Dev+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+</a>
 
+<br/>
 
+<img src="https://github.com/amriteshdas/amriteshdas/blob/main/githubgif-unscreen.gif?raw=true" alt="Banner" width="45%" />
 
-I'm a passionate **AI & ML student**, creative **web developer**, and aspiring **full-stack developer** who enjoys building elegant, functional, and user-friendly web apps.
+<br/><br/>
 
-🚀 Currently learning **JavaScript** and working on modern UI projects.  
-🛠️ Exploring the synergy between **technology & creativity** through freelancing and personal projects.
-
----
-
-
-### 🧠 Skills
-
-**Languages & Tools:**  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-### 💼 Featured Projects
-
-| Project | Tech Stack | Link |
-|--------|------------|------|
-| ☁️ Weather App | HTML, CSS, JS, API | [Live](https://amriteshdas.github.io/weatherapp/) |
-| 🎨 Online Code Editor | HTML, CSS, JS | [Live](https://amriteshdas.github.io/code-editor/) |
-| 🧠 Resume Builder | HTML, CSS, JS | [Live](https://amriteshdas.github.io/resume-builder/) |
-| ✍️ Canvas Web App | HTML, CSS, JS | [Live](https://amriteshdas.github.io/online-canvas/) |
-| 🎬 Movie Hub | HTML, CSS, JS, API | [Live](https://amriteshdas.github.io/moviehub/) |
-
----
-
-### 🌐 Connect with Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-FF416C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/photongrapher.joy)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1461FF?style=for-the-badge&logoColor=white)](https://amriteshdas.github.io/my-portfolio/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/photongrapher.joy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amriteshdas)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amriteshdas)
 
----
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+### 👨‍💻 About Me
+
+```yaml
+name: Amritesh Das
+role: AI & ML Student | Web Developer | Aspiring Full-Stack Dev
+focus: Building elegant, functional, user-friendly web apps
+currently_learning: JavaScript, Modern UI Engineering
+exploring: The synergy between technology & creativity
+mode: Freelancing + Personal Projects 🚀
+fun_fact: "Building is my meditation. Creating is my freedom." ✨
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+### 🧠 Tech Stack
 
 <div align="center">
-    
-  ![snake gif](https://github.com/amriteshdas/amriteshdas/blob/output/github-snake-dark.svg)
+
+**Languages**
+
+![C](https://skillicons.dev/icons?i=c)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+
+**Frameworks & Tools**
+
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Figma](https://skillicons.dev/icons?i=figma)
+
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amriteshdas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amriteshdas&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amriteshdas&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amriteshdas&theme=tokyo-night&hide_border=true" width="49%" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+### 💼 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h4>☁️ Weather App</h4>
+      <p><code>HTML • CSS • JS • API</code></p>
+      <a href="https://amriteshdas.github.io/weatherapp/"><img src="https://img.shields.io/badge/Live_Demo-1461FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+    </td>
+    <td align="center" width="33%">
+      <h4>🎨 Online Code Editor</h4>
+      <p><code>HTML • CSS • JS</code></p>
+      <a href="https://amriteshdas.github.io/code-editor/"><img src="https://img.shields.io/badge/Live_Demo-1461FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+    </td>
+    <td align="center" width="33%">
+      <h4>🧠 Resume Builder</h4>
+      <p><code>HTML • CSS • JS</code></p>
+      <a href="https://amriteshdas.github.io/resume-builder/"><img src="https://img.shields.io/badge/Live_Demo-1461FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h4>✍️ Canvas Web App</h4>
+      <p><code>HTML • CSS • JS</code></p>
+      <a href="https://amriteshdas.github.io/online-canvas/"><img src="https://img.shields.io/badge/Live_Demo-1461FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+    </td>
+    <td align="center" width="33%">
+      <h4>🎬 Movie Hub</h4>
+      <p><code>HTML • CSS • JS • API</code></p>
+      <a href="https://amriteshdas.github.io/moviehub/"><img src="https://img.shields.io/badge/Live_Demo-1461FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+    </td>
+    <td align="center" width="33%">
+      <h4>🌐 More on the way...</h4>
+      <p><code>Stay tuned</code></p>
+      <a href="https://amriteshdas.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+### 🐍 Contribution Graph
+
+<img src="https://github.com/amriteshdas/amriteshdas/blob/output/github-snake-dark.svg" alt="snake gif" width="100%"/>
+
+<br/><br/>
 
 > ✨ *"Building is my meditation. Creating is my freedom."*
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amriteshdas&style=flat-square&color=blue" alt="profile views" />
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=amriteshdas&style=for-the-badge&color=1461FF&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
 </div>
